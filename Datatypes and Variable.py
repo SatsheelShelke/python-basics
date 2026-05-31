@@ -1,0 +1,12 @@
+print('Input Student Details')
+x= str(input('Enter name-'))
+y=int(input("Age-"))
+z=float(input('Height in meters-'))
+b=str(input('Branch-'))
+
+print(' ')
+print('Student Profile')
+print('Name:', x)
+print('Age:', y)
+print('Height:',z,'m')
+print('Branch:',b)

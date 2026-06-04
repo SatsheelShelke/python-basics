@@ -13,3 +13,4 @@ This repository contains my Python practice programs while learning the fundamen
 2.Calculator
 3.Student Profile generator
 4.Countdown Timer
+5.Multiplication Table Generator

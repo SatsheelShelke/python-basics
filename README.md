@@ -7,6 +7,7 @@ This repository contains my Python practice programs while learning the fundamen
 4.Arithmatic operators
 5.(if, elif,else) statements
 6.while loops
+7.Functions
 
 *Projects*
 1.Age calculator
@@ -14,3 +15,4 @@ This repository contains my Python practice programs while learning the fundamen
 3.Student Profile generator
 4.Countdown Timer
 5.Multiplication Table Generator
+6.Student Grade Calculator

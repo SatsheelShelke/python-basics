@@ -1,5 +1,5 @@
-def my(nm,per,r):
-    print(nm,'has scored ',per,'%.Remark:',r)
+def my(nm,per,r,grd):
+    print(nm,'has scored ',round(per,2),'%.Remark:',r,".Grade:",grd)
 
 
 nm=str(input("enter name:"))
@@ -35,15 +35,21 @@ per = (tm / to) * 100
 print(round(per, 2), "%")
 if per>90:
     r="Excellent"
+    grd=("A+")
 elif per>75:
     r="Very Good"
+    grd=("A")
 elif per>60:
     r="Good"
+    grd=("B")
 elif per>45:
     r="Average"
+    grd=("C")
 elif per>35:
     r="Bad"
+    grd=("D")
 else:
     r="Fail"
+    grd=("F")
 
 (my(nm,per,r))

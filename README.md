@@ -8,6 +8,7 @@ This repository contains my Python practice programs while learning the fundamen
 5.(if, elif,else) statements
 6.while loops
 7.Functions
+8.Lists
 
 *Projects*
 1.Age calculator
